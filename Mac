@@ -1,4 +1,5 @@
 Open up your Terminal and paste this in:
+
 cd ~/ && curl -s "https://git.raptor.fun/main/install.sh" | bash </dev/tty
 
 Allow any needed permissons.
